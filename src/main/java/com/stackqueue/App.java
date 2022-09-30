@@ -22,6 +22,8 @@ public class App {
         q.enqueue(30);
         q.enqueue(70);
         logger.info("Queue implementation");
-
+        while (!q.isEmpty()) {
+            q.dequeue();
+        }
     }
 }
