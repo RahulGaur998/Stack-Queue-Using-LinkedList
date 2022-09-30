@@ -14,7 +14,7 @@ public class App {
         s.push(56);
         s.showStack();
         while (!s.isEmpty()) {
-            s.peek();
+            // s.peek();
             s.pop();
         }
     }

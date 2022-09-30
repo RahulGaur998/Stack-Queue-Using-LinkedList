@@ -6,3 +6,7 @@
 2022-10-01 00:16:38.774 [main] INFO  com.stackqueue.App - 56
 2022-10-01 00:16:38.774 [main] INFO  com.stackqueue.App - 30
 2022-10-01 00:16:38.775 [main] INFO  com.stackqueue.App - 70
+2022-10-01 00:21:08.148 [main] INFO  com.stackqueue.App - Implementation of Stack & Queue using Linked List!
+2022-10-01 00:21:08.164 [main] INFO  com.stackqueue.App - 56
+2022-10-01 00:21:08.165 [main] INFO  com.stackqueue.App - 30
+2022-10-01 00:21:08.166 [main] INFO  com.stackqueue.App - 70
